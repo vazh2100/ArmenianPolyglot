@@ -1,1 +1,2 @@
 1733397700 initial1733403609 processed first lesson
+1733413084 added android sample from template
