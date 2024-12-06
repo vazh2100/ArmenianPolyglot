@@ -5,3 +5,4 @@
 1733490382 added GetLessonsUseCaseTest.kt
 1733495407 added progress counting
 1733503859 added dialog for lesson added shapes
+1733509503 created theory module renamed feature_lessons to lessons
