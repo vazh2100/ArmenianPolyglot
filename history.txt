@@ -3,3 +3,4 @@
 1733418622 added lessons module added lessons data json and data structures
 1733489719 added LessonsViewModel added GetLessonsUseCase added AssetReader added LessonsListScreen tuned theming
 1733490382 added GetLessonsUseCaseTest.kt
+1733495407 added progress counting
