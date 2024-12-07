@@ -8,3 +8,4 @@
 1733509503 created theory module renamed feature_lessons to lessons
 1733584623 added markdown theory renderer tuned theory markdown file cleaned typography
 1733587448 v0.0.2
+1733596946 created association module
