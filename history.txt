@@ -6,3 +6,4 @@
 1733495407 added progress counting
 1733503859 added dialog for lesson added shapes
 1733509503 created theory module renamed feature_lessons to lessons
+1733584623 added markdown theory renderer tuned theory markdown file cleaned typography
