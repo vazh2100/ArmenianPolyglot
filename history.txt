@@ -11,3 +11,4 @@
 1733596946 created association module
 1733656937 added association letter ui changed AppBar added routes enum
 1733771738 added createQuestionUsecase for 3 types of letters learning added QuestionCreator added object box database for 3 types of letters learning changed lesson structure removed unused dependencies
+1733854296 added getting of progress of training added progress changing on user answer added extended view model added dispatcher io added animation to color of buttons
