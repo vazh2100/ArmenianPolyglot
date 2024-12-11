@@ -13,3 +13,4 @@
 1733771738 added createQuestionUsecase for 3 types of letters learning added QuestionCreator added object box database for 3 types of letters learning changed lesson structure removed unused dependencies
 1733854296 added getting of progress of training added progress changing on user answer added extended view model added dispatcher io added animation to color of buttons
 1733922586 created 3 tests: CreateQuestionUseCaseTest.kt QuestionCreatorTest.kt UpdateProgressUseCaseTest.kt
+1733926113 renamed the modules for convenience
