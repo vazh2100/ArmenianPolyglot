@@ -17,3 +17,4 @@
 1734022719 added object box for lessons and sublessons added getting progress from data base usecase added updating lesson progress when association progress updates
 1734026431 rewrite QuestionCreatorTest.kt
 1734112103 added writing letter training added dimens for all project added scalable ui and font
+1734112436 v0.0.3
