@@ -18,3 +18,4 @@
 1734026431 rewrite QuestionCreatorTest.kt
 1734112103 added writing letter training added dimens for all project added scalable ui and font
 1734112436 v0.0.3
+1734193552 added an orange button to the general widgets wrote a ViewModel for the theory page added the read button in theory, which changes the progress of the theory
