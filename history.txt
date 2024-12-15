@@ -20,3 +20,4 @@
 1734112436 v0.0.3
 1734193552 added an orange button to the general widgets wrote a ViewModel for the theory page added the read button in theory, which changes the progress of the theory
 1734277671 added new types of associations that work with words redesigned the association structure in the json file so that it is common for letters and words in the association repository, do work with words created a viewmodel for the lesson page remade a detailed lesson dialog to page
+1734284092 made getters for AssociationType
