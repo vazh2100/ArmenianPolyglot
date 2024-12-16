@@ -23,3 +23,4 @@
 1734284092 made getters for AssociationType
 1734286914 made SubLessonType to AssociationType mapping added to SubLessonType Enum three boolean
 1734377738 rewrote the transfer of parameters to navigation and koin: instead of a bunch of parameters, only one id did: use inBoxId everywhere in the code removed unique and index
+1734377972 v0.0.4
