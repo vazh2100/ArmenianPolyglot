@@ -22,3 +22,4 @@
 1734277671 added new types of associations that work with words redesigned the association structure in the json file so that it is common for letters and words in the association repository, do work with words created a viewmodel for the lesson page remade a detailed lesson dialog to page
 1734284092 made getters for AssociationType
 1734286914 made SubLessonType to AssociationType mapping added to SubLessonType Enum three boolean
+1734377738 rewrote the transfer of parameters to navigation and koin: instead of a bunch of parameters, only one id did: use inBoxId everywhere in the code removed unique and index
