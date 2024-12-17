@@ -24,3 +24,4 @@
 1734286914 made SubLessonType to AssociationType mapping added to SubLessonType Enum three boolean
 1734377738 rewrote the transfer of parameters to navigation and koin: instead of a bunch of parameters, only one id did: use inBoxId everywhere in the code removed unique and index
 1734377972 v0.0.4
+1734450522 reviewed the second lesson and checked the materials added the words of the first lesson to the first lesson added the materials of the second lesson to the application set up pre-commit to delete junk files after the test
