@@ -27,3 +27,4 @@
 1734450522 reviewed the second lesson and checked the materials added the words of the first lesson to the first lesson added the materials of the second lesson to the application set up pre-commit to delete junk files after the test
 1734463865 fixed the vertical orientation of the screen send parameters to the theory page (file name, lesson title, second text) added a Russian translation to the Armenian questions for words
 1734467089 made from Association AssociationHolder and Association
+1734467517 v0.0.5
