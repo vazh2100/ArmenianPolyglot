@@ -28,3 +28,4 @@
 1734463865 fixed the vertical orientation of the screen send parameters to the theory page (file name, lesson title, second text) added a Russian translation to the Armenian questions for words
 1734467089 made from Association AssociationHolder and Association
 1734467517 v0.0.5
+1734737737 ### Sentence Training Module Created - Implemented functionality for sentence training with word selection. - Developed a class for generating questions from training entities. - Added a dedicated UseCase for creating a training table before training start - Implemented the ability to cancel selected words. - Configured UI representation of the constructed sentence. - Tested across various themes and screen sizes. - Written tests for the module.
