@@ -37,3 +37,4 @@
 1735492286 - remade the theory of the first lesson - created the theory of the first lesson for "I am" - remade the associations of the first lesson
 1735577915 - created a present simple base training for the first lesson - wrote generator of the present simple base training - made the verb as one entity - made the entity of a personal pronoun
 1735578478 v0.0.8
+1736018998 - completed the first two lessons of the app - fixed bugs and errors - watched lessons 3-6 - refactored trainer generator to a_data processor - planned the next few lessons - added new words from the note
