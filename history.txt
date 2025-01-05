@@ -39,3 +39,4 @@
 1735578478 v0.0.8
 1736018998 - completed the first two lessons of the app - fixed bugs and errors - watched lessons 3-6 - refactored trainer generator to a_data processor - planned the next few lessons - added new words from the note
 1736019188 v0.0.9
+1736105234 - watched the 7th lesson - entered all the words from the lesson - declension of all personal pronouns in all cases - entered all the declensions of pronouns into the dictionary
