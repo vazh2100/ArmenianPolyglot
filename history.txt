@@ -62,3 +62,4 @@
 1736938605 - transitive verbs
 1736951609 - passive voice and reflexive verbs
 1736956894 - added two wrong verbs to times - refactored some theory
+1736957006 - some drafts for future work
