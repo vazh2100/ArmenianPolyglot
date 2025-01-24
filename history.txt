@@ -87,3 +87,4 @@
 1737656958 refactored data and theory directories
 1737662986 separated and spread conjunctions
 1737666074 separated and spread prepositions
+1737724329 spread conjunctions
