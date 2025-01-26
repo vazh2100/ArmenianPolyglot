@@ -99,3 +99,4 @@
 1737912822 clened verbs
 1737915881 cleaned conjunctions
 1737918328 cleaned prepositions
+1737924082 cleaned adverbs
