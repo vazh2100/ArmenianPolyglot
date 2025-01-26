@@ -97,3 +97,4 @@
 1737904937 separated dict to parts of speech
 1737908001 -ություն
 1737912822 clened verbs
+1737915881 cleaned conjunctions
