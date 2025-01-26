@@ -94,3 +94,4 @@
 1737818971 separated pronouns
 1737827262 spread pronouns split lessons
 1737828524 Finish Spreading
+1737904937 separated dict to parts of speech
