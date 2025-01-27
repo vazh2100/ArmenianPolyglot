@@ -104,3 +104,4 @@
 1737973817 cleaned pronouns
 1737975591 cleaned ethics and modals
 1737977768 cleaned to be
+1737978836 nouns sorted grouped
