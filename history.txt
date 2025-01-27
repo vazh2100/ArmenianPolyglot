@@ -101,3 +101,4 @@
 1737918328 cleaned prepositions
 1737924082 cleaned adverbs
 1737925796 cleaned numerals
+1737973817 cleaned pronouns
