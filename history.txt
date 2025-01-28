@@ -111,3 +111,4 @@
 1737993128 improve file processing
 1737997956 dictionary sorted and grouped
 1738068461 improve spelling
+1738068516 add selector for file processing
