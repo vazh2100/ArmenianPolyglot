@@ -113,3 +113,4 @@
 1738068461 improve spelling
 1738068516 add selector for file processing
 1738068695 improve dictionary
+1738092656 Lesson 1: Alphabet Theory Lesson 1: Alphabet Training
