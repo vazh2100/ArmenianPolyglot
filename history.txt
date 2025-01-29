@@ -117,3 +117,4 @@
 1738149957 Lesson 1: Finish Lesson 1: Refactored Resource Generator Lesson 1: Words training Lesson 1: Words Theory Lesson 1: Words
 1738157741 v0.1.0
 1738175887 Refactoring: Added module for assets
+1738183366 Lesson 2: Numerals Theory
