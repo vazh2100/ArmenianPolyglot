@@ -122,3 +122,4 @@
 1738330382 Lesson 2: Done Lesson 2: Minor Clarifications Lesson 2: Training of Article Lesson 2: Training of Plural Number
 1738337327 v0.1.1
 1738430527 Refactor: Theory file naming explicitly in lessons.json
+1738438655 Lesson 3: Letters Theory Lesson 3: Letters Training
