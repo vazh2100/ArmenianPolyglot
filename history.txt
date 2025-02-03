@@ -124,3 +124,4 @@
 1738430527 Refactor: Theory file naming explicitly in lessons.json
 1738438655 Lesson 3: Letters Theory Lesson 3: Letters Training
 1738501515 Lesson 3: Words Theory Lesson 3: Words Training
+1738616743 Lesson 3: Genitive Case Theory
