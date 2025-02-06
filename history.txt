@@ -129,3 +129,4 @@
 1738704830 Lesson 3: Numbers Converter RU Lesson 3: Numbers Converter HY
 1738868207 Lesson 2: Numbers Training Lesson 3: Numbers Training
 1738868590 Lesson 3: Done
+1738868830 v0.1.2
