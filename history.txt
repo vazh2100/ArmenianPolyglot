@@ -135,3 +135,4 @@
 1738931186 Refactoring: merged pronouns with nouns in 2d lesson
 1738936384 Refactoring: separated words, letters and specials to files
 1738937766 Refactoring: renamed messages for user
+1738947654 Refactoring: preinstalled text in text input for specials
