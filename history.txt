@@ -133,3 +133,4 @@
 1738929833 Refactoring: renamed AssociationType
 1738930405 Refactoring: made table headers H6
 1738931186 Refactoring: merged pronouns with nouns in 2d lesson
+1738936384 Refactoring: separated words, letters and specials to files
