@@ -140,3 +140,4 @@
 1738951214 Refactoring: Done
 1738951339 v0.1.3
 1738961118 Lesson 4: Added Alphabet theory and training
+1739016313 Lesson 4: Word theory
