@@ -144,3 +144,4 @@
 1739018280 Lesson 4: Word training
 1739040540 Lesson 4: Theory of nominal predicate in all times
 1739212386 Lesson 4: Refactor table view
+1739282527 Lesson 4: Refactor AssociationType
