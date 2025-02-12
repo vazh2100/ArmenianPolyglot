@@ -146,3 +146,4 @@
 1739212386 Lesson 4: Refactor table view
 1739282527 Lesson 4: Refactor AssociationType
 1739363707 Lesson 4: Theory of Comparative degree
+1739381269 Lesson 4: Simple training
