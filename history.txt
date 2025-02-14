@@ -151,3 +151,4 @@
 1739467774 Lesson 4: Create names forms json
 1739532959 Lesson 4: Create PronounPersonal and PronounPossessive forms in json
 1739536833 Lesson 4: Create adjectives json for trainee creator
+1739538815 Lesson 4: Create adjective pointing pronouns json
