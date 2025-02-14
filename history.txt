@@ -153,3 +153,4 @@
 1739536833 Lesson 4: Create adjectives json for trainee creator
 1739538815 Lesson 4: Create adjective pointing pronouns json
 1739540278 Lesson 4: Create adjective other pronouns
+1739547709 Lesson 4: Create other pronouns json
