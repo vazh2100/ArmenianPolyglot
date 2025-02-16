@@ -158,3 +158,4 @@
 1739556304 Lesson 4: Refactored a_data_processor
 1739625754 Lesson 4: Designated compatible pairs of nouns and adjectives and wrote AdjectiveNounCreator
 1739635837 Lesson 4: Added possesive case to nouns
+1739701229 Lesson 4: Designated compatible pairs of nouns in genitive and nouns in nominative and wrote GenitiveNounNounCreator
