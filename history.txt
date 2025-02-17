@@ -160,3 +160,4 @@
 1739635837 Lesson 4: Added possesive case to nouns
 1739701229 Lesson 4: Designated compatible pairs of nouns in genitive and nouns in nominative and wrote GenitiveNounNounCreator
 1739731587 Lesson 4: Designated compatible pairs of nouns via "for" postposition
+1739782541 Lesson 4: Designated compatible pairs of nouns via for postposition
