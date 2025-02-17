@@ -163,3 +163,4 @@
 1739782541 Lesson 4: Designated compatible pairs of nouns via for postposition
 1739789009 Refactoring: Creator -> WordsBase GenitiveNounNounCreator -> GenitiveNounNounCreator, NounToNounViaPrepositionCreator, NounToNounViaPrepositionPreparator JsonProcessor -> AssociationToWordConverter, JsonMdGenerator -> DictionaryToAssociationMdConverter
 1739792896 Refactoring: separate pronouns to pronouns subject and pronouns adjective
+1739796990 Refactoring: nouns only single or only plural
