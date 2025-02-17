@@ -164,3 +164,4 @@
 1739789009 Refactoring: Creator -> WordsBase GenitiveNounNounCreator -> GenitiveNounNounCreator, NounToNounViaPrepositionCreator, NounToNounViaPrepositionPreparator JsonProcessor -> AssociationToWordConverter, JsonMdGenerator -> DictionaryToAssociationMdConverter
 1739792896 Refactoring: separate pronouns to pronouns subject and pronouns adjective
 1739796990 Refactoring: nouns only single or only plural
+1739797069 Lesson 4: variants counter
