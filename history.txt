@@ -165,3 +165,4 @@
 1739792896 Refactoring: separate pronouns to pronouns subject and pronouns adjective
 1739796990 Refactoring: nouns only single or only plural
 1739797069 Lesson 4: variants counter
+1739873672 Lesson 4: RuCasesBase
