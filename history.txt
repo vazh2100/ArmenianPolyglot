@@ -182,3 +182,4 @@
 1740856355 Publication: Mark the future lessons by "In Creation"
 1741002708 Publication: Add button to donation
 1741166375 Publication: Add icons to app
+1741166823 v0.1.4
