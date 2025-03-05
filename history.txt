@@ -181,3 +181,4 @@
 1740822200 Refactoring: extract theme to theme module
 1740856355 Publication: Mark the future lessons by "In Creation"
 1741002708 Publication: Add button to donation
+1741166375 Publication: Add icons to app
