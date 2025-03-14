@@ -193,3 +193,4 @@
 1741587119 Play Audio: association db migration
 1741593241 v0.1.6
 1741890504 Refactoring: change mutableList.apply to buildList1741936958 Temp words learning: separate words to temp batches
+1741948905 Temp words learning: add words to 17 lessons
