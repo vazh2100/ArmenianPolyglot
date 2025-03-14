@@ -195,3 +195,4 @@
 1741890504 Refactoring: change mutableList.apply to buildList1741936958 Temp words learning: separate words to temp batches
 1741948905 Temp words learning: add words to 17 lessons
 1741951552 Temp words learning: add inCreation subLessons
+1741951733 Temp words learning: add lessons migration
