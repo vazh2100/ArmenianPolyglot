@@ -198,3 +198,4 @@
 1741951733 Temp words learning: add lessons migration
 1741970129 Temp words learning: add associations migration
 1742025365 Refactoring: noise associations are taken from this lesson and the one below
+1742030940 Temp words learning: fitted words into buttons
