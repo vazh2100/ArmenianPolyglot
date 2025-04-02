@@ -200,3 +200,4 @@
 1742025365 Refactoring: noise associations are taken from this lesson and the one below
 1742030940 Temp words learning: fitted words into buttons
 1742031352 v0.1.7
+1743585494 User Experience: add possibility to reset associations1743600839 User Experience: add possibility to reset trainees
